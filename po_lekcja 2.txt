@@ -1,0 +1,15 @@
+git clone https://github.com/fedoseevm/PO_1.git
+
+ls - wyswietla wszystkie repo
+
+git status 
+
+echo "nowe repo" > test.txt - zapisywanie wyrazu "nowe repo" w stworzony plik test.txt
+
+git add * - dodanie plikow lokalne
+
+git commit -m "add new file test.txt"
+
+git push - dodanie do repo na stronie
+
+history - pokazuje historie komend

@@ -1,0 +1,10 @@
+dotnet --version
+dotnet new console -o <nazwa>
+dotnet new console --use-program-main -o <nazwa>
+dotnet run
+
+
+
+cd /
+dir
+tree /f
