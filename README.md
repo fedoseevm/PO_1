@@ -1,1 +1,1 @@
-# PO_1
+# Programowanie Obiektowe, klasa 1
