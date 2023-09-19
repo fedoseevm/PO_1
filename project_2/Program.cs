@@ -11,7 +11,8 @@ namespace project_2
         static void Main(string[] args) // METODA glowna
         {
             Console.WriteLine("C#");
-            Console.ReadKey();
+            Console.ReadKey();  // Console - klasa
+                                // ReadKey() - metoda
         }
     }
 }
