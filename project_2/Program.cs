@@ -95,7 +95,17 @@ namespace project_2
 
             Console.WriteLine(System.Int64.MinValue);
 
+            // UNICODE
+            Console.OutputEncoding = System.Text.Encoding.Unicode; // Rozwazanie problemu
+            Console.WriteLine("♫");
+            Console.WriteLine("\x266B");
 
+            char letter = 'a';
+            Console.WriteLine(letter);
+
+            char letter2 = (char)97;
+            Console.WriteLine(letter2);
+            Console.WriteLine("\x1F60E");
             Console.ReadKey();
         }
     }
