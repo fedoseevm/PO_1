@@ -44,7 +44,7 @@ namespace project_2
              * sbyte -128 - 127 (8 bitow => 1 bajt)
              * ---------------------
              * short -32 768 - 32 767 (16 bitow => 2 bajt)
-             * ushort 65 536 (16 bitow => 2 bajt)
+             * ushort 0 - 65 535 (16 bitow => 2 bajt)
              * ---------------------
              * int -2 147 483 648 - 2 147 483 647 (32 bity => 4 bajty)
              * uint 0 - 4 294 967 295 (32 bity => 4 bajty)
@@ -93,11 +93,13 @@ namespace project_2
             Console.WriteLine(0xA); // 10
 
             // zakres danego typu
-            Console.WriteLine(byte.MinValue);
-            Console.WriteLine(byte.MaxValue);
+            // Console.WriteLine(byte.MinValue);
+            // Console.WriteLine(byte.MaxValue);
+            Console.WriteLine("byte: {0} - {1}", byte.MinValue, byte.MaxValue);
+            Console.WriteLine("sbyte: {0} - {1}", sbyte.MinValue, sbyte.MaxValue);
 
-            Console.WriteLine(sbyte.MinValue);
-            Console.WriteLine(sbyte.MaxValue);
+            // Console.WriteLine(sbyte.MinValue);
+            // Console.WriteLine(sbyte.MaxValue);
 
             Console.WriteLine(int.MinValue);          // -2 147 483 648
             Console.WriteLine(Int32.MinValue);        // -2 147 483 648
