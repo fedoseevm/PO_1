@@ -1,0 +1,14 @@
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\bin\Debug\net6.0\kartkowka_10_10_2023.exe
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\bin\Debug\net6.0\kartkowka_10_10_2023.deps.json
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\bin\Debug\net6.0\kartkowka_10_10_2023.runtimeconfig.json
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\bin\Debug\net6.0\kartkowka_10_10_2023.dll
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\bin\Debug\net6.0\kartkowka_10_10_2023.pdb
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.AssemblyInfoInputs.cache
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.AssemblyInfo.cs
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.csproj.CoreCompileInputs.cache
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.dll
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\refint\kartkowka_10_10_2023.dll
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.pdb
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\kartkowka_10_10_2023.genruntimeconfig.cache
+C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\obj\Debug\net6.0\ref\kartkowka_10_10_2023.dll
