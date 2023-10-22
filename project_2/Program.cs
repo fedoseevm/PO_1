@@ -25,7 +25,7 @@ namespace project_2
             // "C:\Users\2e1\2E MF\ProgObiektowe_1\project_2" - sciezka bezwzgledna
 
             // Zmienne - deklaracja i inicjalizacja
-            Console.WriteLine("Zmienne - deklaracja i inicjalizacja\n");
+            Console.WriteLine("Zmienne - deklaracja i inicjalizacja \n");
             int i = 10; // 32 bity -> 4 bajty -> System.Int32
             // int: -2 147 483 648 - 2 147 483 647
             Console.WriteLine("Wartosc wynosi: " + i);      // + - Konkatynacja
