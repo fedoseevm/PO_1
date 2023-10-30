@@ -5,3 +5,11 @@ C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\bin\Debug\cha
 C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\bin\Debug\challenge.pdb
 C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.exe
 C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.pdb
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\bin\Debug\challenge.exe.config
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\bin\Debug\challenge.exe
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\bin\Debug\challenge.pdb
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.exe
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\challenge\obj\Debug\challenge.pdb

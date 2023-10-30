@@ -5,3 +5,11 @@ C:\Users\2e1\2E MF\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.c
 C:\Users\2e1\2E MF\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.csproj.CoreCompileInputs.cache
 C:\Users\2e1\2E MF\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.exe
 C:\Users\2e1\2E MF\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.pdb
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\bin\Debug\TryCatch_project.exe.config
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\bin\Debug\TryCatch_project.exe
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\bin\Debug\TryCatch_project.pdb
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.exe
+D:\GitHub reps\ProgObiektowe_1\TryCatch_project\obj\Debug\TryCatch_project.pdb
