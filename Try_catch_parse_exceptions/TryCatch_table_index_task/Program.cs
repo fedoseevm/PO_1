@@ -10,10 +10,11 @@ namespace TryCatch_table_index_task
     {
         static void Main(string[] args)
         {
-            // Napisz program w C#, który wczytuje od użytkownika 5 liczb całkowitych i zapisuje je w tablicy. Następnie program prosi użytkownika o podanie indeksu tablicy i wyświetla liczbę znajdującą się pod tym indeksem. Jeśli użytkownik wprowadzi indeks spoza zakresu tablicy, program powinien zgłosić wyjątek ArgumentOutOfRangeException i wyświetlić odpowiedni komunikat. Jeśli użytkownik wprowadzi nieprawidłowe dane, program powinien zgłosić wyjątek FormatException i poprosić o ponowne wprowadzenie danych. Program powinien działać w pętli, dopóki użytkownik nie wpisze q. Użyj instrukcji try-catch do obsługi wyjątków. Jeśli liczba jest ujemna, program powinien zgłosić wyjątek ArgumentOutOfRangeException i wyświetlić odpowiedni komunikat. 
+            // Napisz program w C#, który wczytuje od użytkownika 5 liczb całkowitych i zapisuje je w tablicy. Następnie program prosi użytkownika o podanie indeksu tablicy i wyświetla liczbę znajdującą się pod tym indeksem. Jeśli użytkownik wprowadzi indeks spoza zakresu tablicy, program powinien zgłosić wyjątek IndexOutOfRangeException i wyświetlić odpowiedni komunikat. Jeśli użytkownik wprowadzi nieprawidłowe dane, program powinien zgłosić wyjątek FormatException i poprosić o ponowne wprowadzenie danych. Program powinien działać w pętli, dopóki użytkownik nie wpisze q. Użyj instrukcji try-catch do obsługi wyjątków. Jeśli liczba jest ujemna, program powinien zgłosić wyjątek IndexOutOfRangeException i wyświetlić odpowiedni komunikat. 
             // Jeśli użytkownik wprowadzi nieprawidłowe dane, program powinien zgłosić wyjątek FormatException i poprosić o ponowne wprowadzenie liczby.
 
             int[] array = new int[5];
+            bool isCorrect = false;
             do
             {
                 Console.WriteLine("Wprowadź 5 liczb całkowitych: ");
@@ -24,17 +25,17 @@ namespace TryCatch_table_index_task
                         Console.Write($"Podaj liczbę {i + 1}: ");
                         array[i] = int.Parse(Console.ReadLine());
                     }
+                    isCorrect = true;
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Nieprawidłowe dane. Wprowadź poprawną liczbę całkowitą.");
+                    Console.WriteLine("Nieprawidłowe dane. Wprowadź poprawną liczbę całkowitą.\n\n");
                 }
                 catch (OverflowException)
                 {
-                    Console.WriteLine($"Nieprawidłowe dane. Liczba jest poza zakresem <{int.MinValue};{int.MaxValue}>");
+                    Console.WriteLine($"Nieprawidłowe dane. Liczba jest poza zakresem <{int.MinValue};{int.MaxValue}>\n\n");
                 }
-                break;
-            } while (true);
+            } while (!isCorrect);
 
             int index = 0;
             string input = "";
@@ -53,26 +54,37 @@ namespace TryCatch_table_index_task
                 try
                 {
                     index = int.Parse(input);
-                    Console.WriteLine($"Liczba pod indeksem {index} to {array[index]}");
                     if (index > array.Length - 1)
                     {
-                        throw new OverflowException($"Nieprawidłowe dane. Indeks musi być między 0 a {array.Length - 1} ");
+                        // throw new IndexOutOfRangeException($"Nieprawidłowe dane. Indeks musi być między 0 a {array.Length - 1}");
+                        throw new OverflowException("Błąd: ");
                     }
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine($"Liczba pod indeksem {index} to {array[index]}");
+                    Console.ResetColor();
 
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Nieprawidłowe dane. Wprowadź poprawną liczbę całkowitą.");
+                    ErrorColorChange("Wprowadź poprawną liczbę całkowitą.");
                 }
                 catch (IndexOutOfRangeException)
                 {
-                    Console.WriteLine($"Nieprawidłowe dane. Indeks musi być między 0 a {array.Length - 1}");
+                    ErrorColorChange($"Indeks musi być między 0 a {array.Length - 1} XXXXXXXXXXXXXXXXXXXXXx");
                 }
                 catch (OverflowException ex)
                 {
-                    Console.WriteLine($"Nieprawidłowe dane. {ex.Message}");
+                    // ErrorColorChange($"Indeks jest poza zakresem <{int.MinValue};{int.MaxValue}>");
+                    ErrorColorChange($"Indeks musi być między 0 a {array.Length - 1}. Error: {ex}");
                 }
             } while (true);
+        }
+
+        static void ErrorColorChange(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"Nieprawidłowe dane. {message}");
+            Console.ResetColor();
         }
     }
 }
