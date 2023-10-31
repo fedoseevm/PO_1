@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\bin\Debug\sqrt_exeptions.exe.config
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\bin\Debug\sqrt_exeptions.exe
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\bin\Debug\sqrt_exeptions.pdb
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\obj\Debug\sqrt_try_catch_exceptions.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\obj\Debug\sqrt_try_catch_exceptions.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\obj\Debug\sqrt_try_catch_exceptions.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\obj\Debug\sqrt_exeptions.exe
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\sqrt_tryCatch_exceptions\obj\Debug\sqrt_exeptions.pdb
