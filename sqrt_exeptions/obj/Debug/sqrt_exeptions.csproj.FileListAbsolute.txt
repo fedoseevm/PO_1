@@ -1,0 +1,7 @@
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\bin\Debug\sqrt_exeptions.exe.config
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\bin\Debug\sqrt_exeptions.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\bin\Debug\sqrt_exeptions.pdb
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\obj\Debug\sqrt_exeptions.csproj.AssemblyReference.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\obj\Debug\sqrt_exeptions.csproj.CoreCompileInputs.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\obj\Debug\sqrt_exeptions.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\sqrt_exeptions\obj\Debug\sqrt_exeptions.pdb
