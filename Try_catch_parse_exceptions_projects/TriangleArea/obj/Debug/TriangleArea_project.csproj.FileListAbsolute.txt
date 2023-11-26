@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\bin\Debug\TriangleArea.exe
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\obj\Debug\TriangleArea_project.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\obj\Debug\TriangleArea_project.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\obj\Debug\TriangleArea_project.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\obj\Debug\TriangleArea.exe
+D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TriangleArea\obj\Debug\TriangleArea.pdb
