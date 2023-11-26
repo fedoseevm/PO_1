@@ -1,8 +1,0 @@
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\bin\Debug\TryCatch_table_index_task.exe.config
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\bin\Debug\TryCatch_table_index_task.exe
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\bin\Debug\TryCatch_table_index_task.pdb
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\obj\Debug\TryCatch_table_index_task.csproj.AssemblyReference.cache
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\obj\Debug\TryCatch_table_index_task.csproj.SuggestedBindingRedirects.cache
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\obj\Debug\TryCatch_table_index_task.csproj.CoreCompileInputs.cache
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\obj\Debug\TryCatch_table_index_task.exe
-D:\GitHub reps\ProgObiektowe_1\Try_catch_parse_exceptions\TryCatch_table_index_task\obj\Debug\TryCatch_table_index_task.pdb

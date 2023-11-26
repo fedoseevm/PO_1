@@ -1,7 +1,0 @@
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\bin\Debug\Tables_2.exe.config
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\bin\Debug\Tables_2.exe
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\bin\Debug\Tables_2.pdb
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.csproj.AssemblyReference.cache
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.csproj.CoreCompileInputs.cache
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.exe
-C:\Users\2e1\2E MF\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.pdb
