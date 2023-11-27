@@ -12,17 +12,17 @@ namespace Tables_1_start
         {
             // ZADANIE 1
             // Napisz program, który pobiera od użytkownika 5 liczb całkowitych i zapisuje je w tablicy. Następnie program wyświetla sumę wszystkich elementów tablicy.
-            /*
-                        int[] table_ex1 = new int[5];
-                        int sum = 0;
-                        for (int i = 0; i < table_ex1.Length; i++)
-                        {
-                            Console.Write($"Podaj {i + 1} element tablicy (liczba calkowita): ");
-                            table_ex1[i] = int.Parse(Console.ReadLine());
-                            sum += table_ex1[i];
-                        }
-                        Console.WriteLine("\nSuma elementow tablicy: {0}", sum);
-            */
+
+            int[] table_ex1 = new int[5];
+            int sum = 0;
+            for (int i = 0; i < table_ex1.Length; i++)
+            {
+                Console.Write($"Podaj {i + 1} element tablicy (liczba calkowita): ");
+                table_ex1[i] = int.Parse(Console.ReadLine());
+                sum += table_ex1[i];
+            }
+            Console.WriteLine("\nSuma elementow tablicy: {0}", sum);
+
 
             // ZADANIE 2
             // Napisz program, który pobiera od użytkownika 5 liczb całkowitych i zapisuje je w tablicy. Następnie program wyświetla sumę wszystkich elementów tablicy.

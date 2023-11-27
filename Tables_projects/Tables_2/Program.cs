@@ -35,14 +35,14 @@ namespace Tables_2
             // funkcja statyczna, która pozwala wprowadzić rozmiar tablicy i nazwę (CreateArray)
             // funkcja statyczna, która ustawia elementy tablicy (SetArray)
             // funkcja statyczna, która wyświetla zawartość tablicy (DisplayArray)
-/*
+
             int[] tabA = CreateArray("tabA");
             if (tabA != null)
             {
                 SetArray(tabA, "tabA");
                 DisplayArray(tabA, "tabA");
             }
-*/
+
 
 
             // ZADANIE 2
@@ -86,10 +86,10 @@ namespace Tables_2
                 }
                 catch (OverflowException)
                 {
-                    Console.WriteLine($"Wystąpił błąd: długość tablicy nie może przekraczać {int.MaxValue}");
+                    Console.WriteLine($"Wystąpił błąd: długość tablicy nie może przekraczać {int.MaxValue}\n");
                 }
             } while (!isCorrect);
-            
+
 
         }
         // PUBLIC pozwala korzystac z metody w MAIN
@@ -135,7 +135,6 @@ namespace Tables_2
                     i--;
                 }
             }
-            
         }
 
         public static void DisplayArray(int[] array, string name)

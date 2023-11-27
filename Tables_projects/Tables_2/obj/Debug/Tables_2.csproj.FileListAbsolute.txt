@@ -13,3 +13,11 @@ D:\GitHub reps\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.csproj.SuggestedBindi
 D:\GitHub reps\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.csproj.CoreCompileInputs.cache
 D:\GitHub reps\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.exe
 D:\GitHub reps\ProgObiektowe_1\Tables_2\obj\Debug\Tables_2.pdb
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\bin\Debug\Tables_2.exe.config
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\bin\Debug\Tables_2.exe
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\bin\Debug\Tables_2.pdb
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\obj\Debug\Tables_2.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\obj\Debug\Tables_2.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\obj\Debug\Tables_2.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\obj\Debug\Tables_2.exe
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_2\obj\Debug\Tables_2.pdb

@@ -13,3 +13,11 @@ D:\GitHub reps\ProgObiektowe_1\Tables_1_start\obj\Debug\Tables_1_start.csproj.Su
 D:\GitHub reps\ProgObiektowe_1\Tables_1_start\obj\Debug\Tables_1_start.csproj.CoreCompileInputs.cache
 D:\GitHub reps\ProgObiektowe_1\Tables_1_start\obj\Debug\Tables_1_start.exe
 D:\GitHub reps\ProgObiektowe_1\Tables_1_start\obj\Debug\Tables_1_start.pdb
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\bin\Debug\Tables_1_start.exe.config
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\bin\Debug\Tables_1_start.exe
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\bin\Debug\Tables_1_start.pdb
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\obj\Debug\Tables_1_start.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\obj\Debug\Tables_1_start.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\obj\Debug\Tables_1_start.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\obj\Debug\Tables_1_start.exe
+D:\GitHub reps\ProgObiektowe_1\Tables_projects\Tables_1_start\obj\Debug\Tables_1_start.pdb
