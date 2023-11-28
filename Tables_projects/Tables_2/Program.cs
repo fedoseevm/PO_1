@@ -60,6 +60,7 @@ namespace Tables_2
                         throw new ArgumentException("Długość tablicy powinna być dodatnia.");
                     }
                     int[,] tabB = new int[n, n];
+                    Console.WriteLine(tabB.Rank);   // Zwraca ilość wymiarów tablicy
                     int sum = 0;
                     for (int i = 0; i < tabB.GetLength(0); i++)
                     {

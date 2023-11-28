@@ -1,0 +1,7 @@
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\obj\Debug\spr-1_28_11_2023.csproj.AssemblyReference.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\obj\Debug\spr-1_28_11_2023.csproj.CoreCompileInputs.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\bin\Debug\spr-1_28_11_2023.exe.config
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\bin\Debug\spr-1_28_11_2023.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\bin\Debug\spr-1_28_11_2023.pdb
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\obj\Debug\spr-1_28_11_2023.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\spr-1_28_11_2023\obj\Debug\spr-1_28_11_2023.pdb
