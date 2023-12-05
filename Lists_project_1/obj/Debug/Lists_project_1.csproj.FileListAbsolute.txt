@@ -1,0 +1,7 @@
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.exe.config
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.pdb
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.AssemblyReference.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.CoreCompileInputs.cache
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.exe
+C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.pdb
