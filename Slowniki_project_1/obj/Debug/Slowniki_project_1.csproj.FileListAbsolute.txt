@@ -1,0 +1,7 @@
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\bin\Debug\Slowniki_project_1.exe.config
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\bin\Debug\Slowniki_project_1.exe
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\bin\Debug\Slowniki_project_1.pdb
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\obj\Debug\Slowniki_project_1.csproj.AssemblyReference.cache
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\obj\Debug\Slowniki_project_1.csproj.CoreCompileInputs.cache
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\obj\Debug\Slowniki_project_1.exe
+C:\2E MF\ProgObiektowe_1\Slowniki_project_1\obj\Debug\Slowniki_project_1.pdb
