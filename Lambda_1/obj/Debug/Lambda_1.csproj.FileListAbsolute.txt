@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\bin\Debug\Lambda_1.exe.config
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\bin\Debug\Lambda_1.exe
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\bin\Debug\Lambda_1.pdb
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\obj\Debug\Lambda_1.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\obj\Debug\Lambda_1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\obj\Debug\Lambda_1.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\obj\Debug\Lambda_1.exe
+D:\GitHub reps\ProgObiektowe_1\Lambda_1\obj\Debug\Lambda_1.pdb
