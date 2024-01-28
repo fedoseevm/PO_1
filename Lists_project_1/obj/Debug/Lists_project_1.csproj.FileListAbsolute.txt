@@ -5,3 +5,11 @@ C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csp
 C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.CoreCompileInputs.cache
 C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.exe
 C:\Users\2e1\2E MF\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.pdb
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.exe.config
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.exe
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\bin\Debug\Lists_project_1.pdb
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.exe
+D:\GitHub reps\ProgObiektowe_1\Lists_project_1\obj\Debug\Lists_project_1.pdb

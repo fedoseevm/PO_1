@@ -105,16 +105,19 @@ namespace Lists_project_1
                 Console.Write(element + " ");
             }
 
+            Console.ReadKey();
+            Console.Clear();
+
             int choice;
             // Tworzenie pętli do wyświetlenia menu o obsługi wyboru
-            Console.WriteLine("\n\nMenu (Podaj liczbę 1-4 lub Q dla wyjścia): ");
             do
             {
                 // Wyświetlenie menu
-                Console.WriteLine("- Wyświetlić listę liczb podzielnych przez 3 lub 5 [1]");
-                Console.WriteLine("- Wyświetlić listę liczb nieparzystych [2]");
-                Console.WriteLine("- Wyświetlić listę liczb posortowanych rosnąco [3]");
-                Console.WriteLine("- Wyświetlić listę liczb posortowanych malejąco [4]");
+                Console.WriteLine("\n\nMenu (Podaj liczbę 1-4 lub [5] dla wyjścia): ");
+                Console.WriteLine("[1] Wyświetlić listę liczb podzielnych przez 3 lub 5 [1]");
+                Console.WriteLine("[2] Wyświetlić listę liczb nieparzystych [2]");
+                Console.WriteLine("[3] Wyświetlić listę liczb posortowanych rosnąco [3]");
+                Console.WriteLine("[4] Wyświetlić listę liczb posortowanych malejąco [4]");
                 Console.WriteLine("Wyjść z programu [5]");
 
                 // Pobieranie wyboru od użytkownika
@@ -135,7 +138,8 @@ namespace Lists_project_1
                         {
                             Console.Write($"{item} ");
                         }
-                        Console.WriteLine("\n\n");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 2:
                         // Wywołanie metody onlyOddNumbers(), która wyświetla listę liczb nieparzystych
@@ -146,29 +150,32 @@ namespace Lists_project_1
                         {
                             Console.Write($"{item} ");
                         }
-                        Console.WriteLine("\n\n");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 3:
                         // Wywołanie metody SortAsc(), która wyświetla listę liczb posortowanych rosnąco
                         List<int> ascending = SortAsc(list2);
 
-                        Console.WriteLine("Lista liczb posortowanych rosnąco");
+                        Console.WriteLine("\nLista liczb posortowanych rosnąco");
                         foreach (int item in ascending)
                         {
                             Console.Write($"{item} ");
                         }
-                        Console.WriteLine("\n\n");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                     case 4:
                         // Wywołanie metody SortDesc(), która wyświetla listę liczb posortowanych rosnąco
                         List<int> descending = SortDesc(list2);
 
-                        Console.WriteLine("Lista liczb posortowanych malejąco");
-                        foreach (int item in )
+                        Console.WriteLine("\nLista liczb posortowanych malejąco");
+                        foreach (int item in descending)
                         {
                             Console.Write($"{item} ");
                         }
-                        Console.WriteLine("\n\n");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                 }
             } while (choice != 5);

@@ -47,6 +47,7 @@ namespace Tables_2
 
             // ZADANIE 2
             // Napisz program, który wczytuje z klawiatury liczbę n i tworzy tablicę dwuwymiarową o wymiarach n x n. Następnie program wypełnia tablicę liczbami losowymi z zakresu od 1 do 100 i wyświetla jej zawartość na ekranie. Na koniec program oblicza i wyświetla sumę elementów znajdujących się na głównej przekątnej tablicy.
+            Console.WriteLine("Zadanie 2");
             Random r = new Random();
             bool isCorrect = false;
             do
@@ -60,21 +61,23 @@ namespace Tables_2
                         throw new ArgumentException("Długość tablicy powinna być dodatnia.");
                     }
                     int[,] tabB = new int[n, n];
-                    Console.WriteLine(tabB.Rank);   // Zwraca ilość wymiarów tablicy
+                    Console.WriteLine("ilość wymiarów tablicy: " + tabB.Rank);   // Zwraca ilość wymiarów tablicy
                     int sum = 0;
                     for (int i = 0; i < tabB.GetLength(0); i++)
                     {
                         for (int j = 0; j < tabB.GetLength(1); j++)
                         {
                             tabB[i, j] = r.Next(1, 100);
+                            Console.Write(tabB[i, j] + " ");
                             if (i == j)
                             {
                                 sum += tabB[i, j];
                             }
 
                         }
+                        Console.WriteLine();
                     }
-                    Console.WriteLine(sum);
+                    Console.WriteLine("Suma elementów znajdujących się na głównej przekątnej tablicy: " + sum);
                     isCorrect = true;
                 }
                 catch (ArgumentException ex)

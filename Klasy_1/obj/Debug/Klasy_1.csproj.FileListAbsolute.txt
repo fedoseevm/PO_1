@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.exe.config
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.exe
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.pdb
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.exe
+D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.pdb
