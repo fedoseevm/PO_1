@@ -67,13 +67,13 @@ namespace Klasy_1
             //Data urodzenia: poniedziałek, 14 lutego 2000
 
             nowak.DateOfBirth = new DateTime(2000, 2, 14, 9, 29, 55);
-            Console.WriteLine("Czas urodzenia: {0}", nowak.DateOfBirth.ToShortTimeString()); 
+            Console.WriteLine("Czas urodzenia: {0}", nowak.DateOfBirth.ToShortTimeString());
             //Czas urodzenia: 09:29
 
             Console.WriteLine("Czas urodzenia: {0}", nowak.DateOfBirth.ToLongTimeString()); 
             //Czas urodzenia: 09:29:55
 
-            Console.WriteLine("Data urodzenia: {0} {1}", nowak.DateOfBirth.ToLongDateString(), nowak.DateOfBirth.ToLongTimeString());
+            Console.WriteLine("Data i czas urodzenia: {0} {1}", nowak.DateOfBirth.ToLongDateString(), nowak.DateOfBirth.ToLongTimeString());
 
             Console.ReadKey();
         }

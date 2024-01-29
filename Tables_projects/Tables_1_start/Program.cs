@@ -22,7 +22,8 @@ namespace Tables_1_start
                 sum += table_ex1[i];
             }
             Console.WriteLine("\nSuma elementow tablicy: {0}", sum);
-
+            Console.ReadKey();
+            Console.Clear();
 
             // ZADANIE 2
             // Napisz program, który pobiera od użytkownika 5 liczb całkowitych i zapisuje je w tablicy. Następnie program wyświetla sumę wszystkich elementów tablicy.
@@ -50,7 +51,8 @@ namespace Tables_1_start
                 sum2 += table_ex2[i];
             }
             Console.WriteLine("\nSuma elementow tablicy: {0}", sum2);
-
+            Console.ReadKey();
+            Console.Clear();
 
             // Napisz program, który pobiera od użytkownika 5 liczb całkowitych i zapisuje je w tablicy, a następnie wyświetla sumę wszystkich elementów tablicy. Kod ten wykorzystuje metodę GetIntegerFromUser(), która pobiera od użytkownika liczbę całkowitą i zwraca ją. Jeśli użytkownik wprowadzi niepoprawną wartość, funkcja wyświetli stosowny komunikat i poprosi o ponowne wprowadzenie liczby. 
 

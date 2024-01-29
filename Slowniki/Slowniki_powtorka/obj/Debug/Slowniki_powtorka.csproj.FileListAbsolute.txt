@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\bin\Debug\Slowniki_powtorka.exe.config
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\bin\Debug\Slowniki_powtorka.exe
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\bin\Debug\Slowniki_powtorka.pdb
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\obj\Debug\Slowniki_powtorka.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\obj\Debug\Slowniki_powtorka.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\obj\Debug\Slowniki_powtorka.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\obj\Debug\Slowniki_powtorka.exe
+D:\GitHub reps\ProgObiektowe_1\Slowniki_powtorka\obj\Debug\Slowniki_powtorka.pdb
