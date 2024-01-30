@@ -21,7 +21,7 @@ namespace Klasy_1
             Console.WriteLine("Numer indeksy studenta: " + s1.StudentNumber);
 
             Teacher t1 = new Teacher();
-            t1.Subjects = new List<string>() { "matematyka", "informatyka" };
+            t1.Subjects = new List<string>() { "matematyka", "informatyka", "Programonwanie obiektowe" };
             //foreach (var subject in t1.Subjects)
             //	Console.Write(subject + " ");
 
@@ -74,6 +74,23 @@ namespace Klasy_1
             //Czas urodzenia: 09:29:55
 
             Console.WriteLine("Data i czas urodzenia: {0} {1}", nowak.DateOfBirth.ToLongDateString(), nowak.DateOfBirth.ToLongTimeString());
+
+            Console.WriteLine("\nLekcja 2");
+            Person p1 = new Person();       // enum
+            p1.Gender = Gender.mężczyzna;
+            Console.WriteLine(p1.Gender);
+
+            p1.Permission = Permission.User;
+
+            p1.DateOfBirth = new DateTime(2000, 1, 25, 9, 14, 49);
+
+            p1.SetFirstName("Adam");
+            p1.SetLastName("Nowak");
+            Console.WriteLine(p1.GetData()); // Imię i nazwisko: Adam Nowak, zwrost: 0cm, waga: 0kg
+            Console.WriteLine("Data urodzenia: " + p1.DateOfBirth.ToLongDateString() + " rok");
+            p1.Adress = new Adress();
+            p1.Adress.City = "Poznań";
+            Console.WriteLine(p1.Adress.GetAdress()); // Miasto: Poznań, ulica:  , kod pocztowy:    
 
             Console.ReadKey();
         }

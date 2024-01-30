@@ -6,3 +6,10 @@ D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.SuggestedBinding
 D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.CoreCompileInputs.cache
 D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.exe
 D:\GitHub reps\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.pdb
+C:\2E MF\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.exe.config
+C:\2E MF\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.exe
+C:\2E MF\ProgObiektowe_1\Klasy_1\bin\Debug\Klasy_1.pdb
+C:\2E MF\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.AssemblyReference.cache
+C:\2E MF\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.csproj.CoreCompileInputs.cache
+C:\2E MF\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.exe
+C:\2E MF\ProgObiektowe_1\Klasy_1\obj\Debug\Klasy_1.pdb
