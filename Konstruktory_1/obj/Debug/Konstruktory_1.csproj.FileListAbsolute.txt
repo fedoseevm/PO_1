@@ -1,0 +1,7 @@
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\bin\Debug\Konstruktory_1.exe.config
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\bin\Debug\Konstruktory_1.exe
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\bin\Debug\Konstruktory_1.pdb
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\obj\Debug\Konstruktory_1.csproj.AssemblyReference.cache
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\obj\Debug\Konstruktory_1.csproj.CoreCompileInputs.cache
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\obj\Debug\Konstruktory_1.exe
+C:\Users\ja\2E MF\ProgObiektowe_1\Konstruktory_1\obj\Debug\Konstruktory_1.pdb
