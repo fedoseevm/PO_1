@@ -1,0 +1,7 @@
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\bin\Debug\Konstruktory_2.exe.config
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\bin\Debug\Konstruktory_2.exe
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\bin\Debug\Konstruktory_2.pdb
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.AssemblyReference.cache
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.CoreCompileInputs.cache
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.exe
+C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.pdb

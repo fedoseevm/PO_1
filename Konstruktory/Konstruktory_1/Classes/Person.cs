@@ -22,7 +22,7 @@ namespace Konstruktory_1.Classes
             Counter++;
         }
 
-        // Konstruktor domyślny jest bezparametrowym. Jeśli klasa nie ma żadnego konstruktora, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich watrości domyślnych. Jeśli zdefiniujemy jakiś konstruktor paramentryczny, to nie otrzymamy automatycznie konstruktora domyślnego i musimy go samodzielnie zadeklarować.
+        // Konstruktor domyślny jest bezparametrowym. Jeśli klasa nie ma żadnego konstruktora, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich wartości domyślnych. Jeśli zdefiniujemy jakiś konstruktor paramentryczny, to nie otrzymamy automatycznie konstruktora domyślnego i musimy go samodzielnie zadeklarować.
 
         // Dodać konstuktor domyślny
         public Person() 
