@@ -5,3 +5,10 @@ C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.As
 C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.CoreCompileInputs.cache
 C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.exe
 C:\Users\ja\Do przemieszczenia\Konstruktory_2\obj\Debug\Konstruktory_2.pdb
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.exe.config
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.exe
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.pdb
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.AssemblyReference.cache
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.CoreCompileInputs.cache
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.exe
+C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.pdb
