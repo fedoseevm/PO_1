@@ -32,7 +32,7 @@ namespace Konstruktory_1
             //Type personType = typeof(Person);
             //Console.WriteLine(personType); // Konstruktory_1.Classes.Person
 
-            //// Pobranie tablicy obiektów typu Person
+            //// Pobranie tablicy obiektów typu Person 
             //object[] personArray = AppDomain.CurrentDomain.GetAssemblies().SelectMany(a => a.GetTypes()).Where(t => t == personType).
         }
     }

@@ -1,5 +1,6 @@
 ﻿using Konstruktory_2.Classes;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -198,7 +199,7 @@ namespace Konstruktory_2
                     Console.WriteLine("Nazwa: {0}", animal.Name);
                     Console.WriteLine("Data urodzenia: {0}", animal.BirthDate.ToLongDateString());
                     Console.WriteLine("Czy jest ssakiem: {0}", animal.IsMammal ? "tak" : "nie");
-                    Console.WriteLine("Rodzaj {0}", animal.Kind);
+                    Console.WriteLine("Rodzaj: {0}", animal.Kind);
                     animal.ShowAge();
                 }
                 else
@@ -258,7 +259,7 @@ namespace Konstruktory_2
             Kind kind = Kind.Ssak;
             if (!isMammal)
             {
-                Console.Write("Podaj rodzaj zwierzęcia (Ptak, Ryba, Gad, Płaz): ");
+                Console.Write("Podaj rodzaj zwierzęcia (Ptak, Ryba, Gad, Plaz): ");
                 kind = (Kind)Enum.Parse(typeof(Kind), Console.ReadLine());
             }
 

@@ -12,3 +12,11 @@ C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.cs
 C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.CoreCompileInputs.cache
 C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.exe
 C:\2E MF\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.pdb
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.exe.config
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.exe
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\bin\Debug\Konstruktory_2.pdb
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.exe
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_2\obj\Debug\Konstruktory_2.pdb

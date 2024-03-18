@@ -12,7 +12,7 @@ namespace Konstruktory_2.Classes
         Ptak,
         Ryba,
         Gad,
-        Płaz,
+        Plaz,
         Ssak
     }
     // Gad - reptile

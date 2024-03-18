@@ -18,8 +18,8 @@ namespace Konstruktory_1.Classes
         // Konstruktor statyczny, jest wywoływany automatycznie, aby zainicjować klasę przed utworzeniem perwszej instancji. Jest wywoływany tylko 1 raz, przep pierwszym użyciem typu. Konstruktor statyczny nie może mieć paramentrów ani modyfikatorów dostępu. Służy do inicjowania pól statycznych luv wykonywania innych operacji statycznych. 
         static Person()
         {
-            Console.WriteLine("Statyczny konstruktor klasy person \n");
-            Counter++;
+            Console.WriteLine("Statyczny konstruktor klasy Person \n");
+            //Counter++;
         }
 
         // Konstruktor domyślny jest bezparametrowym. Jeśli klasa nie ma żadnego konstruktora, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich wartości domyślnych. Jeśli zdefiniujemy jakiś konstruktor paramentryczny, to nie otrzymamy automatycznie konstruktora domyślnego i musimy go samodzielnie zadeklarować.
@@ -30,7 +30,7 @@ namespace Konstruktory_1.Classes
             Console.WriteLine("Kostruktor domyślny klasy Person\n");
             Name = "Nieznane";
             Surname = "Nieznane";
-            // Counter++;
+            Counter++;
         }
 
         // Kostruktor parametryczny ma co najmniej 1 parametr. Słyży do inicjowania pól obiektu zgodnie z wartościami podanymi przy tworzeniu obiektu. Możemy mieć wiele konstruktorów parametrycznych, o ile różnią się liczbą lub typem paramemetrów.
@@ -58,7 +58,7 @@ namespace Konstruktory_1.Classes
         }
 
         // Konstruktor parametryczny z 4 paramentrami
-        // this służy do wywołania innego konstruktora tej samej klasy, czyli konstruktora parametrycznego z 3 parametrami. Dzięki temu konstruktor z 4 parametrami nie musi inicjowaniać pól Name, Surname, Agem a może skupić się na dodaniu pola Height. Hest to sposób na uniknięcie powtarzanie kodu i zapewnienie spójności danych.
+        // this służy do wywołania innego konstruktora tej samej klasy, czyli konstruktora parametrycznego z 3 parametrami. Dzięki temu konstruktor z 4 parametrami nie musi inicjowaniać pól Name, Surname, Age, a może skupić się na dodaniu pola Height. Jest to sposób na uniknięcie powtarzanie kodu i zapewnienie spójności danych.
         public Person(string name, string surname, int age, float height) : this(name, surname, age)
         {
             Height = height;
