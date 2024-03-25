@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\bin\Debug\Konstruktory_cwiczenie_samochody.exe.config
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\bin\Debug\Konstruktory_cwiczenie_samochody.exe
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\bin\Debug\Konstruktory_cwiczenie_samochody.pdb
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\obj\Debug\Konstruktory_cwiczenie_samochody.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\obj\Debug\Konstruktory_cwiczenie_samochody.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\obj\Debug\Konstruktory_cwiczenie_samochody.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\obj\Debug\Konstruktory_cwiczenie_samochody.exe
+D:\GitHub reps\ProgObiektowe_1\Konstruktory\Konstruktory_cwiczenie_samochody\obj\Debug\Konstruktory_cwiczenie_samochody.pdb
