@@ -1,0 +1,8 @@
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.exe.config
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.exe
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.pdb
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\obj\Debug\Zadanie_samochody.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\obj\Debug\Zadanie_samochody.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\obj\Debug\Zadanie_samochody.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.exe
+D:\GitHub reps\ProgObiektowe_1\Sprawdziany_kartkowki\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.pdb

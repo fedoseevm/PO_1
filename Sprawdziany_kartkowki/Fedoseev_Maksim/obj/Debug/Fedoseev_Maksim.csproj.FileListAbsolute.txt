@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.exe.config
-C:\Users\user\source\repos\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.exe
-C:\Users\user\source\repos\Fedoseev_Maksim\bin\Debug\Fedoseev_Maksim.pdb
-C:\Users\user\source\repos\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.exe
-C:\Users\user\source\repos\Fedoseev_Maksim\obj\Debug\Fedoseev_Maksim.pdb
