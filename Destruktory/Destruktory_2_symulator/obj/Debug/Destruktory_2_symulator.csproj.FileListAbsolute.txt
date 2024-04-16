@@ -5,3 +5,10 @@ C:\Users\ADMIN\source\repos\Destruktory_2_symulator\obj\Debug\Destruktory_2_symu
 C:\Users\ADMIN\source\repos\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.exe
 C:\Users\ADMIN\source\repos\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.pdb
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\bin\Debug\Destruktory_2_symulator.exe.config
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\bin\Debug\Destruktory_2_symulator.exe
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\bin\Debug\Destruktory_2_symulator.pdb
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.csproj.AssemblyReference.cache
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.csproj.CoreCompileInputs.cache
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.exe
+C:\2E MF\ProgObiektowe_1\Destruktory\Destruktory_2_symulator\obj\Debug\Destruktory_2_symulator.pdb

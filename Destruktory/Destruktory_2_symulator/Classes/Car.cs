@@ -21,11 +21,11 @@ namespace Destruktory_2_symulator.Classes
         {
             if (!IsDamaged)
             {
-                Console.WriteLine($"Jadę samochodem {Brand} {Model}");
+                Console.WriteLine($"\nJadę samochodem {Brand} {Model}");
             }
             else
             {
-                Console.WriteLine($"Samochód {Brand} {Model} ma awarię");
+                Console.WriteLine($"\nSamochód {Brand} {Model} ma awarię");
             }
         }
         public void SimulateRandomDamage()
