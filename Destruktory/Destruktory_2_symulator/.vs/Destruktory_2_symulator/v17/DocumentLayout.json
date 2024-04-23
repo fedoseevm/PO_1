@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Destruktory_2_symulator\\",
+  "WorkspaceRootPath": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|c:\\users\\admin\\source\\repos\\destruktory_2_symulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|c:\\users\\admin1\\2e mf\\progobiektowe_1\\destruktory\\destruktory_2_symulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|c:\\users\\admin\\source\\repos\\destruktory_2_symulator\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F4A2E92-0B36-4BC0-A0DD-EB1AF635CE63}|Destruktory_2_symulator.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,34 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Destruktory_2_symulator\\Classes\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\Classes\\Car.cs",
               "RelativeDocumentMoniker": "Classes\\Car.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Destruktory_2_symulator\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\Classes\\Car.cs",
               "RelativeToolTip": "Classes\\Car.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAA+wDQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T06:10:10.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T06:10:10.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Destruktory_2_symulator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Destruktory_2_symulator\\Program.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Destruktory\\Destruktory_2_symulator\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAQwFwAAAAcAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwFwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T06:09:33.227Z",
               "EditorCaption": ""

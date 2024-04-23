@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim_Klasy_spr.csproj|c:\\users\\admin1\\2e mf\\progobiektowe_1\\sprawdziany_kartkowki\\spr_klasy_06_02_2024\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim_Klasy_spr.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim_Klasy_spr.csproj|c:\\users\\admin1\\2e mf\\progobiektowe_1\\sprawdziany_kartkowki\\spr_klasy_06_02_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim_Klasy_spr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim.csproj|C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim.csproj|C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E0F40-2A48-459E-B7B5-A690D1647B3E}|Fedoseev_Maksim.csproj|solutionrelative:classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:26:19.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:26:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Classes\\Person.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Person.cs",
+              "RelativeToolTip": "Classes\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:26:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\admin1\\2E MF\\ProgObiektowe_1\\Sprawdziany_kartkowki\\spr_Klasy_06_02_2024\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:26:04.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

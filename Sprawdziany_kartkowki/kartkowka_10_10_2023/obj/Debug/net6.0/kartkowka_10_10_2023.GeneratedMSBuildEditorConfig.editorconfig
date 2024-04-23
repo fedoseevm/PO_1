@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kartkowka_10_10_2023
-build_property.ProjectDir = C:\MF 2E\ProgObiektowe_1\kartkowka_10_10_2023\
+build_property.ProjectDir = C:\Users\admin1\2E MF\ProgObiektowe_1\Sprawdziany_kartkowki\kartkowka_10_10_2023\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
