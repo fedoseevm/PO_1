@@ -6,13 +6,23 @@ using System.Threading.Tasks;
 
 namespace Dziedziczenie_2_maszyny.Classes
 {
+    enum MachineType
+    {
+        Excavator,
+        Crane,
+        Bulldozer,
+        Loader
+    }
+
     internal class Machine
     {
         public string Name { get; set; }
+        public MachineType Type { get; set; }
         // Konstruktor główny
-        public Machine(string name)
+        public Machine(string name, MachineType type)
         {
             Name = name;
+            Type = type;
             Console.WriteLine($"{Name} została stworzona");
         }
         // Konstruktor kopiujący

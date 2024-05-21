@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Bulldozer.cs" />
+    <Compile Include="Classes\Crane.cs" />
     <Compile Include="Classes\Excavator.cs" />
+    <Compile Include="Classes\Loader.cs" />
     <Compile Include="Classes\Machine.cs" />
+    <Compile Include="Classes\MachineSimulator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
