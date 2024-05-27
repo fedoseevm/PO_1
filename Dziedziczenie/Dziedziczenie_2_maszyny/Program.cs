@@ -19,10 +19,18 @@ namespace Dziedziczenie_2_maszyny
             excavator.Stop();
 
             MachineSimulator simulator = new MachineSimulator();
-            simulator.Add(new Excavator("E-200", MachineType.Excavator));
-            simulator.Add(new Crane("E-200", MachineType.Crane));
-            simulator.Add(new Bulldozer("E-200", MachineType.Bulldozer));
-            simulator.Add(new Loader("E-200", MachineType.Loader));
+            simulator.Add(new Excavator("Excavator-200", MachineType.Excavator));
+            simulator.Add(new Crane("Crane-200", MachineType.Crane));
+            simulator.Add(new Bulldozer("Bulldozer-200", MachineType.Bulldozer));
+            simulator.Add(new Loader("Loader-200", MachineType.Loader));
+            Console.WriteLine("");
+            simulator.StartAll();
+
+            Console.WriteLine();
+            simulator.WorkAll();
+
+            Console.WriteLine();
+            simulator.StopAll();
 
             Console.WriteLine("\nNaciśnij dowolny przycisk, aby zakończyć program.");
             Console.ReadKey();
