@@ -1,0 +1,15 @@
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.exe.config
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.exe
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.pdb
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.csproj.AssemblyReference.cache
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.csproj.CoreCompileInputs.cache
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.exe
+C:\2E MF\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.pdb
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.exe.config
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.exe
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\bin\Debug\Dziedziczenie_2_maszyny.pdb
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.csproj.AssemblyReference.cache
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.csproj.CoreCompileInputs.cache
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.exe
+D:\GitHub reps\ProgObiektowe_1\Dziedziczenie\Dziedziczenie_2_maszyny\obj\Debug\Dziedziczenie_2_maszyny.pdb

@@ -15,20 +15,6 @@ namespace Dziedziczenie_2_maszyny.Classes
         {
             machines.Add(machine);
         }
-        public void AddNewMachine(MachineTypeManager typeManager)
-        {
-            typeManager.DisplayMachineTypes();
-            Console.Write("Wybierz typ maszyny do dodania: ");
-            string machineType = Console.ReadLine();
-            if (typeManager.IsValidType(machineType))
-            {
-                Machine newMachine = MachineFactory.CreateMachine(machineType);
-            }
-            else
-            {
-                Console.WriteLine("Nieznany typ maszyny");
-            }
-        }
 
         // Metoda uruchamiająca wszystkie maszyny
         public void StartAll()

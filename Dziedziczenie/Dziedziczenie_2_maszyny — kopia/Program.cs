@@ -23,7 +23,7 @@ namespace Dziedziczenie_2_maszyny
                 Console.Write("Wybierz opcję: ");
                 userInput = menuManager.GetUserInput();
                 menuManager.ExecuteAction(userInput, machineSimulator, typeManager);
-            } while (userInput != "10");
+            } while (userInput != "9");
 
 
 
