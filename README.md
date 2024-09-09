@@ -1,1 +1,1 @@
-# Programowanie Obiektowe, klasa 1
+# Programowanie Obiektowe, klasa 2
